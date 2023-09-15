@@ -15,5 +15,7 @@ public class Main {
         }
 
         System.out.println("Приложение работает!");
+        System.out.println("Все еще работает!");
+        System.out.println("Точно работает!");
     }
 }
